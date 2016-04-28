@@ -1,2 +1,4 @@
 Student Name= Balakrishna Merugumala
 Course= SWE
+Favorite restaurant= Ulavacharu Indian Restaurant
+Favorite movie= Hum Apke Hain Kaun
