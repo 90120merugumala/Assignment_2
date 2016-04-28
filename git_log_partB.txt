@@ -1,0 +1,78 @@
+commit 296fab6cd77f5015c6778965cbe3c5405e9b511a
+Author: Balakrishna merugumala <90120.merugumala@students.itu.edu>
+Date:   Thu Apr 28 13:45:10 2016 -0700
+
+    deleting the file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 2c427b0..f2d35ae 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -2,3 +2,4 @@ Student Name= Balakrishna Merugumala
+ Course= SWE
+ Favorite restaurant= Ulavacharu Indian Restaurant
+ Favorite movie= Hum Apke Hain Kaun
++faviourte color: blue
+
+commit 21b61a53ef4b9eb887de68fd1d7f0fcf8fb5c928
+Author: Balakrishna merugumala <90120.merugumala@students.itu.edu>
+Date:   Thu Apr 28 13:39:41 2016 -0700
+
+    added the graduation and first job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..7bacb50
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++January 2017, Java Developer
+
+commit 3b5222d659dfdc87a89e79b9835394cecfe20d60
+Author: Balakrishna merugumala <90120.merugumala@students.itu.edu>
+Date:   Thu Apr 28 12:01:10 2016 -0700
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index f5d792a..2c427b0 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,4 @@
+ Student Name= Balakrishna Merugumala
+ Course= SWE
++Favorite restaurant= Ulavacharu Indian Restaurant
++Favorite movie= Hum Apke Hain Kaun
+
+commit 7fde7544b6a4b07d685d83e3786eb2e5637ac5ae
+Author: Balakrishna merugumala <90120.merugumala@students.itu.edu>
+Date:   Thu Apr 28 11:54:44 2016 -0700
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 892218a..f5d792a 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,2 @@
+-Student Name= Balakrishna Merugumala 
+-Student ID= 90120
+\ No newline at end of file
++Student Name= Balakrishna Merugumala
++Course= SWE
+
+commit ff18a6e90e48e709b24421b2d3936795d496d3ef
+Author: Balakrishna merugumala <90120.merugumala@students.itu.edu>
+Date:   Thu Apr 28 11:39:59 2016 -0700
+
+    Committing a new file with Balakrishna Merugumala
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..892218a
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1,2 @@
++Student Name= Balakrishna Merugumala 
++Student ID= 90120
+\ No newline at end of file
